@@ -1,0 +1,6 @@
+SORPRESA PARA MILENA
+
+Extrae todo el ZIP y abre index.html.
+Pulsa Abrir mi sorpresa para activar la música.
+La cajita musical acompaña el inicio y las cartas, baja suavemente al reproducir los recuerdos y regresa al terminar, pausar o salir.
+Incluye seis cartas completas, 36 fotos y ambos audios.
